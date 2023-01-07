@@ -1,0 +1,47 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable 'directory_to_readme'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=directory_to_readme",
+                    "--package=directory_to_readme"
+                ],
+                "filter": {
+                    "name": "directory_to_readme",
+                    "kind": "bin"
+                }
+            },
+            "args": [
+                "--dir-path=/home/alif/apps/dir_to_readme/directory_to_readme/test_folder_root"
+            ],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable 'directory_to_readme'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=directory_to_readme",
+                    "--package=directory_to_readme"
+                ],
+                "filter": {
+                    "name": "directory_to_readme",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
