@@ -1,0 +1,12 @@
+/home/alif/apps/dir_to_readme/directory_to_readme/target/debug/deps/io_lifetimes-4d2df0d07f06e4f5.rmeta: /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/lib.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/portability.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/traits.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/types.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/impls_std.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/example_ffi.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/raw.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/views.rs
+
+/home/alif/apps/dir_to_readme/directory_to_readme/target/debug/deps/io_lifetimes-4d2df0d07f06e4f5.d: /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/lib.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/portability.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/traits.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/types.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/impls_std.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/example_ffi.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/raw.rs /home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/views.rs
+
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/lib.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/portability.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/traits.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/types.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/impls_std.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/example_ffi.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/raw.rs:
+/home/alif/.cargo/registry/src/github.com-1ecc6299db9ec823/io-lifetimes-1.0.3/src/views.rs:
